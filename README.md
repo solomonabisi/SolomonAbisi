@@ -21,7 +21,7 @@ IT Infrastructure Student | Cybersecurity | Python Developer | Data Analyst
 
 - Customer Operations
 - Cybersecurity
-- IT Support
+- Healthcare
 - Data Analysis
 - Technical Problem Solving
 
