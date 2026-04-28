@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SolomonAbisi/SolomonAbisi/main/headshot.jpg" width="180">
+<img src="./my face.jpg" width="180">
 
 # 👋 Hi, I'm Solomon Abisi
 
