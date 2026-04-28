@@ -4,7 +4,7 @@
 
 👋 Hi, I'm Solomon Abisi
 
-IT Infrastructure Student | Cybersecurity | Python Developer | Data Analyst
+IT Infrastructure Student | Cybersecurity | Python | Java | R | Data Analyst
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Future+Cybersecurity+Professional;Python+Developer;Java+Developer+;Problem+Solver;Always+Learning+Always+Building" />
 
@@ -86,7 +86,8 @@ Bachelor of Applied Science
 🎓 Expected Graduation: May 2027
 
 ### North Hennepin Community College  
-Associate of Arts  
+Associate of Arts 
+🎓 May 2024
 
 ---
 
