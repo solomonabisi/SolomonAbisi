@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./my face.jpg" width="180">
+<img src="./my face.jpg" width="180" style="border-radius:50%;" />
 
-# 👋 Hi, I'm Solomon Abisi
+👋 Hi, I'm Solomon Abisi
 
-### IT Infrastructure Student | Cybersecurity | Python Developer | Data Analyst
+IT Infrastructure Student | Cybersecurity | Python Developer | Data Analyst
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Future+Cybersecurity+Professional;Python+Developer;Java+Developer+;Problem+Solver;Always+Learning+Always+Building" />
 
@@ -12,12 +12,12 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 🎓 Bachelor of Applied Science in Information Technology Infrastructure  
 📍 University of Minnesota — Expected May 2027  
 
-💼 Experienced professional with a background in:
+### 💼 Experienced professional with a background in:
 
 - Customer Operations
 - Cybersecurity
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 💼 Professional Experience
+💼 Professional Experience
 
 ### 🏢 Optum  
 **Complex Customer Care Representative Sr.**  
@@ -100,17 +100,6 @@ Associate of Arts
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
