@@ -2,9 +2,9 @@
 
 <img src="./my face.jpg" width="180" style="border-radius:50%;" />
 
-👋 Hi, I'm Solomon Abisi
+<h1>👋 Hi, I'm Solomon Abisi</h1>
 
-IT Infrastructure Student | Cybersecurity | Python | Java | R | Data Analyst
+<h3>IT Infrastructure Student | Cybersecurity | Python | Java | R | Data Analyst</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Future+Cybersecurity+Professional;Python+Developer;Java+Developer+;Problem+Solver;Always+Learning+Always+Building" />
 
