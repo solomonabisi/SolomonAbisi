@@ -120,6 +120,6 @@ Associate of Arts
 
 <div align="center">
 
-### ⚡ "Building skills today for the technology of tomorrow."
+## ⚡ "Building skills today for the technology of tomorrow."
 
 </div>
