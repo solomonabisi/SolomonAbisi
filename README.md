@@ -29,21 +29,6 @@
 
 ---
 
-### 🛠 Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00C853?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-orange?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-purple?style=for-the-badge)
-
-</div>
-
----
-
 💼 Professional Experience
 
 ### 🏢 Optum  
@@ -121,6 +106,6 @@ Associate of Arts
 
 <div align="center">
 
-## ⚡ "Building skills today for the technology of tomorrow."
+⚡ "Building skills today for the technology of tomorrow."
 
 </div>
