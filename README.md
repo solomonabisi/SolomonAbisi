@@ -69,8 +69,7 @@ Bachelor of Applied Science
 ⌛ Expected Graduation: May 2030
 
 ### North Hennepin Community College  
-Associate of Arts 
-🎓 🎓 🎓 🎓 🎓 🎓 🎓
+🎓 Associate of Arts 🎓
 
 ---
 
