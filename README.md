@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 🎓 Bachelor of Applied Science in Information Technology Infrastructure  
-📍 University of Minnesota — Expected May 2027  
+📍 University of Minnesota — Expected May 2030  
 
 ### 💼 Experienced professional with a background in:
 
@@ -68,7 +68,7 @@
 ### University of Minnesota  
 Bachelor of Applied Science  
 **Information Technology Infrastructure**  
-🎓 Expected Graduation: May 2027
+🎓 Expected Graduation: May 2030
 
 ### North Hennepin Community College  
 Associate of Arts 
@@ -78,7 +78,7 @@ Associate of Arts
 
 ## 🔥 Current Focus
 
-- Python Projects  
+- Python/Java/R Projects  
 - Cybersecurity Labs  
 - Building GitHub Portfolio  
 - Networking & Career Growth  
