@@ -25,8 +25,6 @@
 - Data Analysis
 - Technical Problem Solving
 
-🔍 Passionate about technology, automation, cybersecurity, and helping businesses solve complex technical problems.
-
 ---
 
 💼 Professional Experience
