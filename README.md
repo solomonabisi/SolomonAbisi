@@ -68,11 +68,11 @@
 ### University of Minnesota  
 Bachelor of Applied Science  
 **Information Technology Infrastructure**  
-🎓 Expected Graduation: May 2030
+⌛ Expected Graduation: May 2030
 
 ### North Hennepin Community College  
 Associate of Arts 
-🎓 May 2024
+🎓 🎓 🎓 🎓 🎓 🎓 🎓
 
 ---
 
