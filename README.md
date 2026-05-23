@@ -99,6 +99,8 @@ Bachelor of Applied Science
 ## 📫 Connect With Me
 
 
+📱 Phone: 763-300-7443
+📧 Email: abisi003@umn.edu
 💼 LinkedIn: https://www.linkedin.com/in/solomon-abisi/  
 
 ---
