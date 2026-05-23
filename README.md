@@ -89,11 +89,13 @@ Associate of Arts
 
 ## 🚀 Featured Projects
 
-🔹 Password Generator  
-🔹 Helpdesk Ticket Tracker  
-🔹 Resume Scanner with Python  
-🔹 Phishing Detection Demo  
-🔹 Sorting Algorithm Visualizer  
+🔹 Cybersecurity Breach Log Monitor 
+🔹 IT Support Ticket Analyzer
+🔹 Healthcare Scheduling Predictor
+🔹 Social Media Keyword Analyzer
+🔹 Shuttle Route Optimizer
+🔹 Energy Consumption Dashboard
+🔹 Retail Sales Optimization System 
 
 ---
 
