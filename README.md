@@ -4,9 +4,9 @@
 
 <h1>👋 Hi, I'm Solomon Abisi</h1>
 
-<h3>IT Infrastructure Student | Cybersecurity | Python | Java | R | Data Analyst</h3>
+<h3>IT Infrastructure Student | Python | Java | R | Data Analyst</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Future+Cybersecurity+Professional;Python+Developer;Java+Developer+;Problem+Solver;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Future+Tech+Professional;Python+Developer;Java+Developer+;Problem+Solver;Always+Learning+Always+Building" />
 
 </div>
 
