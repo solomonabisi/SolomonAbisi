@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-🎓 Bachelor of Applied Science in Information Technology Infrastructure  
+🎓 Bachelor of Applied Science in Information Technology Infrastructure: Cybersecurity  
 📍 University of Minnesota — Expected May 2030  
 
 ### 💼 Experienced professional with a background in:
@@ -65,7 +65,7 @@
 
 ### University of Minnesota  
 Bachelor of Applied Science  
-**Information Technology Infrastructure**  
+**Information Technology Infrastructure: Cybersecurity**  
 ⌛ Expected Graduation: May 2030
 
 ### North Hennepin Community College  
