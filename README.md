@@ -33,10 +33,10 @@
 **Complex Customer Care Representative Sr.**  
 📅 Jan 2021 – Present
 
-- Analyze claims, billing, provider, and member data  
-- Resolve complex benefit issues  
-- Improve workflows through data-driven insights  
-- Collaborate across internal teams  
+- Analyze member, provider, and claims data to identify discrepancies, trends, anomalies, and root causes across complex operational cases.
+- Validate information across multiple internal systems and document accurate case details to support downstream processing, reporting,       tracking, and resolution.
+- Review complex policy and benefit information, assess available evidence, and determine appropriate resolution paths while maintaining       data accuracy. 
+- Manage high-volume work queues while maintaining attention to detail, documentation quality, and timely follow-through.
 
 ---
 
@@ -44,10 +44,10 @@
 **Cybersecurity Analyst Intern**  
 📅 Dec 2024 – Jul 2025
 
-- Developed password & access control policies  
-- Executed phishing simulations  
-- Improved employee security awareness  
-- Researched cloud storage and disaster recovery strategies  
+- Created organization-wide password and access control policies to strengthen authentication protocols and support secure user access.  
+- Developed and executed phishing simulations to identify security-awareness gaps, evaluate employee susceptibility, and strengthen           defensive awareness. 
+- Conducted research on secure cloud storage practices and data recovery strategies to support business continuity and organizational         resilience. 
+- Documented security processes and findings clearly to support consistent execution, communication, and operational follow-through.  
 
 ---
 
@@ -55,9 +55,9 @@
 **IT Technician**  
 📅 Aug 2020 – May 2022
 
-- Supported hardware/software systems  
-- Maintained asset records  
-- Improved documentation and system integrity  
+- Maintained and updated system records for hardware, software, and user access to support accurate asset and access tracking.  
+- Validated system configurations and documented changes during upgrades and maintenance activities to support system integrity and           reliable technical records. 
+- Provided IT support in a technical environment requiring troubleshooting, documentation, accuracy, and communication with users and         internal teams. 
 
 ---
 
