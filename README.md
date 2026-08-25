@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 🎓 Bachelor of Applied Science in Information Technology Infrastructure: Cybersecurity  
-📍 University of Minnesota — Expected May 2030  
+📍 University of Minnesota — Expected May 2027  
 
 ### 💼 Experienced professional with a background in:
 
