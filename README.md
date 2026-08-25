@@ -66,7 +66,7 @@
 ### University of Minnesota  
 Bachelor of Applied Science  
 **Information Technology Infrastructure: Cybersecurity**  
-⌛ Expected Graduation: May 2030
+⌛ Expected Graduation: May 2027
 
 ### North Hennepin Community College  
 🎓 Associate of Arts 🎓
