@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 🎓 Bachelor of Applied Science in Information Technology Infrastructure: Cybersecurity  
-📍 University of Minnesota — Expected May 2027  
+📍 University of Minnesota — Expected May 2030  
 
 ### 💼 Experienced professional with a background in:
 
@@ -66,7 +66,7 @@
 ### University of Minnesota  
 Bachelor of Applied Science  
 **Information Technology Infrastructure: Cybersecurity**  
-⌛ Expected Graduation: May 2027
+⌛ Expected Graduation: May 2030
 
 ### North Hennepin Community College  
 🎓 Associate of Arts 🎓
@@ -98,8 +98,6 @@ Bachelor of Applied Science
 
 ## 📫 Connect With Me
 
-
-📱 Phone: 763-300-7443
 📧 Email: abisi003@umn.edu
 💼 LinkedIn: https://www.linkedin.com/in/solomon-abisi/  
 
